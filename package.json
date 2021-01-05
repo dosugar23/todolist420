@@ -1,6 +1,7 @@
 {
   "name": "todolist",
   "version": "0.1.0",
+  "homepage": "https://dosugar23.github.io/todo-list-420/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
@@ -17,7 +18,9 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "store": "^2.0.12",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
