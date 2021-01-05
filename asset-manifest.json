@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/todolist420/static/css/main.25ae2b18.chunk.css",
-    "main.js": "/todolist420/static/js/main.f7143904.chunk.js",
-    "main.js.map": "/todolist420/static/js/main.f7143904.chunk.js.map",
-    "runtime-main.js": "/todolist420/static/js/runtime-main.84cd0a7b.js",
-    "runtime-main.js.map": "/todolist420/static/js/runtime-main.84cd0a7b.js.map",
-    "static/js/2.33cf51aa.chunk.js": "/todolist420/static/js/2.33cf51aa.chunk.js",
-    "static/js/2.33cf51aa.chunk.js.map": "/todolist420/static/js/2.33cf51aa.chunk.js.map",
-    "index.html": "/todolist420/index.html",
-    "static/css/main.25ae2b18.chunk.css.map": "/todolist420/static/css/main.25ae2b18.chunk.css.map",
-    "static/js/2.33cf51aa.chunk.js.LICENSE.txt": "/todolist420/static/js/2.33cf51aa.chunk.js.LICENSE.txt",
-    "static/media/Background.css": "/todolist420/static/media/background.6726857e.jpg",
-    "static/media/Image.css": "/todolist420/static/media/image.f97ccde8.jpg"
+    "main.css": "/dosugar23/dosugar23.github.io/static/css/main.e80f08b1.chunk.css",
+    "main.js": "/dosugar23/dosugar23.github.io/static/js/main.d7ff6e02.chunk.js",
+    "main.js.map": "/dosugar23/dosugar23.github.io/static/js/main.d7ff6e02.chunk.js.map",
+    "runtime-main.js": "/dosugar23/dosugar23.github.io/static/js/runtime-main.95c89f86.js",
+    "runtime-main.js.map": "/dosugar23/dosugar23.github.io/static/js/runtime-main.95c89f86.js.map",
+    "static/js/2.33cf51aa.chunk.js": "/dosugar23/dosugar23.github.io/static/js/2.33cf51aa.chunk.js",
+    "static/js/2.33cf51aa.chunk.js.map": "/dosugar23/dosugar23.github.io/static/js/2.33cf51aa.chunk.js.map",
+    "index.html": "/dosugar23/dosugar23.github.io/index.html",
+    "static/css/main.e80f08b1.chunk.css.map": "/dosugar23/dosugar23.github.io/static/css/main.e80f08b1.chunk.css.map",
+    "static/js/2.33cf51aa.chunk.js.LICENSE.txt": "/dosugar23/dosugar23.github.io/static/js/2.33cf51aa.chunk.js.LICENSE.txt",
+    "static/media/Background.css": "/dosugar23/dosugar23.github.io/static/media/background.6726857e.jpg",
+    "static/media/Image.css": "/dosugar23/dosugar23.github.io/static/media/image.f97ccde8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84cd0a7b.js",
+    "static/js/runtime-main.95c89f86.js",
     "static/js/2.33cf51aa.chunk.js",
-    "static/css/main.25ae2b18.chunk.css",
-    "static/js/main.f7143904.chunk.js"
+    "static/css/main.e80f08b1.chunk.css",
+    "static/js/main.d7ff6e02.chunk.js"
   ]
 }
